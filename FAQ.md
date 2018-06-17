@@ -2,14 +2,14 @@
 
 *Q*: Không sử dụng được webcam, ngay cả kiểm tra trong Device Manager cũng không thấy thiết bị ?
 *A*: Sử dụng tổ hợp phím Fn + F6 để bật/tắt webcam. Trong trường hợp tổ hợp phím này không có tác dụng, tải phần mềm SCM (System Control Manager) và bật lại. 
-Link tải SCM mới nhất (08/05): "Tải tại đây":http://download.msi.com/uti_exe/nb/_ap_MSI%20SCM%20x64%2013.018.03063_13.018.03063_0x8b4df550.zip
+Link tải SCM mới nhất (08/05):http://download.msi.com/uti_exe/nb/_ap_MSI%20SCM%20x64%2013.018.03063_13.018.03063_0x8b4df550.zip
 
 ***
 
 *Q*: Máy có bàn phím LED RGB, nhưng sau khi mua về chỉ hiện đèn LED màu đỏ ?
 *A*: Cài đặt thêm phần mềm Steelseries Engine 3 và/hoặc MSI Dragon Center để chỉnh màu và hiệu ứng LED phím. 
-Link tải SSE3 mới nhất: "SteelSeries Engine 3":https://steelseries.com/engine/latest/windows
-Link tải Dragon Center mới nhất (8/5): "Dragon Center":http://download.msi.com/uti_exe/nb/DragonCenterv1.2.1802.0501_1.2.1802.0501_0x9f935600.zip
+Link tải SSE3 mới nhất: https://steelseries.com/engine/latest/windows
+Link tải Dragon Center mới nhất (8/5): http://download.msi.com/uti_exe/nb/DragonCenterv1.2.1802.0501_1.2.1802.0501_0x9f935600.zip
 
 ***
 
@@ -20,9 +20,9 @@ Link tải Dragon Center mới nhất (8/5): "Dragon Center":http://download.msi
 
 *Q*: Máy sau khi chuyển sang chế độ Sleep thì khi mở lại màn hình bị sọc và nhiễu, không hiển thị được hình ảnh.
 *A*: Lỗi này xảy ra trên các bản Windows 10 mới (1706 và 1709), do xung đột với driver card màn hình. Dùng phần mềm Display Driver Uninstaller để gỡ driver của Intel và nVidia đi, sau đó tải driver mới nhất về cài đặt lại.
-Display Driver Uninstaller: "tải tại đây":http://www.guru3d.com/files-details/display-driver-uninstaller-download.html 
-Driver Intel: "tải tại đây":https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html   
-Driver nVidia: "tải tại đây":https://www.geforce.com/drivers
+Display Driver Uninstaller: http://www.guru3d.com/files-details/display-driver-uninstaller-download.html 
+Driver Intel: https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html   
+Driver nVidia: https://www.geforce.com/drivers
 
 ***
 *Q*: Máy cấu hình cao, thừa sức chơi được tốt game nhưng vào game chỉ được 30 (hoặc 60) fps. Mức fps ổn định, gần như không dao động.
